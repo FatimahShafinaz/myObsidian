@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"cfa56c76c5a17eec","x":-20,"y":-220,"width":200,"height":80,"color":"2","type":"text","text":"IoT"},
+		{"id":"9b9d06b805948c53","x":243,"y":-269,"width":344,"height":400,"type":"file","file":"__Media/Pasted image 20221214121635.png"},
+		{"id":"e18b61c6c1a4195f","x":-508,"y":-124,"width":344,"height":400,"type":"file","file":"__Media/Pasted image 20221214121635.png"},
+		{"id":"ea555f3cf9d34148","x":40,"y":-900,"width":398,"height":400,"type":"file","file":"__Media/Pasted image 20221202163803.png"},
+		{"id":"ecc508bc08445be9","x":-508,"y":-420,"width":240,"height":99,"type":"text","text":"# Block Chain"},
+		{"id":"6223017359b0e5d1","x":-80,"y":180,"width":400,"height":400,"type":"file","file":"__Papers/Connell 1964.pdf"},
+		{"id":"06896897fd4fa169","x":-686,"y":620,"width":606,"height":360,"type":"text","text":"<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/ckB71hb0kx0?si=tN9_5t0Jw9sxbzy_\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"}
+	],
+	"edges":[
+		{"id":"4a9f7012ea47bfe1","fromNode":"cfa56c76c5a17eec","fromSide":"left","toNode":"ecc508bc08445be9","toSide":"right"},
+		{"id":"58d3c338b846011d","fromNode":"cfa56c76c5a17eec","fromSide":"right","toNode":"9b9d06b805948c53","toSide":"left"},
+		{"id":"ee937f5b71006eee","fromNode":"cfa56c76c5a17eec","fromSide":"bottom","toNode":"e18b61c6c1a4195f","toSide":"top"},
+		{"id":"60097a0883d81a94","fromNode":"ecc508bc08445be9","fromSide":"top","toNode":"ea555f3cf9d34148","toSide":"left"},
+		{"id":"be0a53067d630e6a","fromNode":"6223017359b0e5d1","fromSide":"left","toNode":"e18b61c6c1a4195f","toSide":"right"},
+		{"id":"29a7f96544cdf8ef","fromNode":"6223017359b0e5d1","fromSide":"left","toNode":"9b9d06b805948c53","toSide":"left"},
+		{"id":"95d6a86c16702a9e","fromNode":"06896897fd4fa169","fromSide":"right","toNode":"e18b61c6c1a4195f","toSide":"bottom"},
+		{"id":"8b5d87940f568a30","fromNode":"06896897fd4fa169","fromSide":"right","toNode":"6223017359b0e5d1","toSide":"left"}
+	]
+}

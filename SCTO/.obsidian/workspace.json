@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "062bb2dd732d5070",
+    "type": "split",
+    "children": [
+      {
+        "id": "2da49ba4f4864e3b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6c3a0e09597d875",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/SLR github.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "705a183a696bd344",
+    "type": "split",
+    "children": [
+      {
+        "id": "893caea0b62ba53c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65e9c833c39092e4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "79030114292247cd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "mindmap",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6122b32f9984510f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "f4ab73e5ca81d4fd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 246.5
+  },
+  "right": {
+    "id": "f1027b9aeedb0cb5",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6e93ef09024c4cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7832789618f5a81a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Excalidraw/SLR github.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5ebfab15fcc5d8d9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Excalidraw/SLR github.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "897d8f0c7eaed2e2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6857a43a16461b86",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Excalidraw/SLR github.md"
+              }
+            }
+          },
+          {
+            "id": "ccc3dcce557eede7",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "dbfolder:Create a new database table": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "d6c3a0e09597d875",
+  "lastOpenFiles": [
+    "Canvas/My Canvas.canvas",
+    "Canvas/Start here.canvas",
+    "Untitled.md",
+    "Canvas/Sample.canvas",
+    "Canvas/Research Mindmap.canvas",
+    "Canvas/Reference Manager.canvas",
+    "Canvas/Readme canvas.md",
+    "Canvas/Media Dashboard.canvas",
+    "Canvas/Library Dashboard.canvas",
+    "Canvas/Homepage.canvas",
+    "Canvas/Brainstorm.canvas",
+    "Canvas/Book Dashboard.canvas",
+    "Mind Map/Readme Mind map.md",
+    "Mind Map/Mind mapping.md",
+    "Mind Map/IoT blockchain.md",
+    "Excalidraw/mind map.md",
+    "Markdown/Markdown.md",
+    "Dataview/≡ƒæô List of Papers.md",
+    "1∩╕ÅΓâú Primary Sources/Shahizan 2020.md",
+    "DataView1.md",
+    "Dataview 1.md",
+    "Dataview/Dataview Templates.md",
+    "Dataview/Dataview 1.md",
+    "__Papers/Shahizan 2020.pdf",
+    "Kanban/Kanban board.md",
+    "Mind Map/Check box.md",
+    "__Papers/M Suhaili _ Baghdad Science Journal.pdf",
+    "Untitled",
+    "My Paper.md",
+    "Fatimah Shafinaz.md",
+    "__Media/Pasted image 20221202163803.png",
+    "__Papers/Lampiran A_Templat Data Hasil Pengkomersialan PRGS 1.pptx",
+    "__Papers/Lampiran A_Templat Data Hasil Pengkomersialan PRGS.pptx",
+    "__Media/alfatihah.png",
+    "__Media/Pasted image 20221214121016.png",
+    "__Media/Pasted image 20221214120446.png",
+    "__Media/Pasted image 20221214115955.png",
+    "__Media/Pasted image 20221214094010.png",
+    "MyKanban.md",
+    "readthis.md",
+    "__Papers/Dhekre 2023.pdf",
+    "Excalidraw/SLR github.md",
+    "Excalidraw/0 Start.md",
+    "Pasted Image 20240204125516_674.png",
+    "Exercise 2/Combine.md",
+    "Exercise 2/Chapter 3.md",
+    "Exercise 2/Chapter 1.md",
+    "Exercise 2/readme1.md",
+    "Exercise 2",
+    "__Media/Zettelkasten steps.png",
+    "Canvas",
+    "Kanban",
+    "Zotero",
+    "__Media/Pasted Image 20240202102119_150.png",
+    "Pasted Image 20240202101844_201.png"
+  ]
+}
